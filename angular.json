@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "rxjs-task-list"
+  "defaultProject": "rxjs-task-list",
+  "cli": {
+    "analytics": "72973a8d-e059-4823-bc42-9fa3f4539e3e"
+  }
 }
